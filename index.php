@@ -35,7 +35,7 @@
 
 
         body{
-            background-color: black;
+            background-color: #140675;
         }
         
     </style>
