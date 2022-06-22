@@ -164,7 +164,7 @@
                     <div class="single-box-lpfew">
 
                         <div class="left-lgpw-lgew-icon">
-                            <img src="icons/star-iop.png">
+                            <img src="icons/choose-a-star.png">
                         </div>
 
                         <div class="text-load-lgpewg">
@@ -196,7 +196,7 @@
                     <div class="single-box-lpfew">
 
                         <div class="left-lgpw-lgew-icon">
-                            <img src="icons/file.png">
+                            <img src="icons/packaging.png">
                         </div>
 
                         <div class="text-load-lgpewg">
@@ -214,7 +214,7 @@
                     <div class="single-box-lpfew">
 
                         <div class="left-lgpw-lgew-icon">
-                            <img src="icons/file.png">
+                            <img src="icons/delivery.png">
                         </div>
 
                         <div class="text-load-lgpewg">
@@ -341,7 +341,7 @@
                         <div class="single-box-lpfew">
 
                         <div class="left-lgpw-lgew-icon">
-                            <img src="icons/star-iop.png">
+                            <img src="icons/quality.png">
                         </div>
 
                         <div class="text-load-lgpewg">
@@ -355,7 +355,7 @@
                     <div class="single-box-lpfew">
 
                         <div class="left-lgpw-lgew-icon">
-                            <img src="icons/file.png">
+                            <img src="icons/fast-delivery.png">
                         </div>
                         
                         <div class="text-load-lgpewg">
@@ -369,7 +369,7 @@
                     <div class="single-box-lpfew">
 
                         <div class="left-lgpw-lgew-icon">
-                            <img src="icons/file.png">
+                            <img src="icons/24-hours-support.png">
                         </div>
                         
                         <div class="text-load-lgpewg">
