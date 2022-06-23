@@ -872,7 +872,7 @@ a{
 
 @import url("https://fonts.googleapis.com/css?family=Raleway:900&display=swap");
  
-#container {
+#container { 
     position: absolute;
     margin: auto; 
     top: 0;
@@ -995,6 +995,12 @@ a{
 }
  
 @media (max-width:850px) {
+    .left-lpfwe{
+        width: 100%;
+    }
+    .right-rherher{
+        display: none;
+    }
     .first-section-main, .main-left-lpger {
         width: 100%;
     } 
