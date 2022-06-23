@@ -172,14 +172,13 @@
                 </div>
 
                 <div class="way-to-get-your-satar">
- 
-<!-- dadadada -->
+  
                     <div class="single-box-lpfew">
 
                         <div class="left-lgpw-lgew-icon">
                             <img src="icons/choose-a-star.png">
-                        </div>
-        <!-- test01 -->
+                        </div>  
+                        
                         <div class="text-load-lgpewg">
                             <label>Изберете ѕвезда</label>
                             <p>Можете да си изберете ѕвездичка по ваш избор од нашиот спектар, односно целата галаксија. </p>
