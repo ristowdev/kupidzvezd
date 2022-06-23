@@ -49,7 +49,7 @@
         <div class="size-prodsa">
             
             <div class="header-main-lgpw">
-
+                
                 <div class="logo-lgw">
                     <img src="icons/logo-red-2.png">
                     <h1><span>The Ristow</span> <span>Gifts</span></h1>
@@ -404,7 +404,7 @@
 
                     <div class="first-lgr">
                         <h1>Како да ја најдете вашата подарена ѕвездичка</h1>
-                        <p>Вашата избрана ѕвездичка можете да ја пронајдете во било кое време со само 4 брзи чекори:</p>
+                        <p>Вашата избрана ѕвездичка можете да ја посетете во било кое време со само 4 брзи чекори:</p>
                         </div>
                         <div class="secplec-le-ofwe">
                             <div class="sec-lpofe-lgmingew">

@@ -56,11 +56,14 @@
                 </div>
 
                 <div class="menu-flds">
-
-                    <a href="index.php">Дома</a>
-                    <a href="#">За нас</a> 
-                    <a href="#">Контакт</a>
-                    <a href="#">Најди ѕвезда</a>
+                <div class="desktop-links"> 
+                        <a href="#hero-section">Дома</a>
+                        <a href="#way-to-buy">Процесот</a> 
+                        <a href="#why-to-buy">Причина</a>
+                        <a href="#about-us">За нас</a>
+                        <a href="#find-a-star">Најди ѕвезда</a>
+                    </div>
+             
                     <a href="buyastar.php"><div class="lfkmgw">Подари ѕвезда</div></a>
 
                 </div>
