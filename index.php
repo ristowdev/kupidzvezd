@@ -49,7 +49,11 @@
         <div class="size-prodsa">
             
             <div class="header-main-lgpw">
+<<<<<<< HEAD
 
+=======
+                
+>>>>>>> 77b65637a810f00d9eeeb4394522c725ad74bfe8
                 <div class="klslsl">            
                     <a href="#">
                         <div class="logo-lgw">
@@ -58,8 +62,13 @@
                             <h1><span>The Ristow</span> <span>Gifts</span></h1>
                         </div>   
                     </a>
+<<<<<<< HEAD
                 </div>    
 
+=======
+                </div>   
+                <!-- // test/ -->
+>>>>>>> 77b65637a810f00d9eeeb4394522c725ad74bfe8
                 <div class="menu-flds">
               
                     <div class="desktop-links"> 
