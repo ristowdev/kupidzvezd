@@ -52,7 +52,7 @@
 
                 <div class="logo-lgw">
                     <img src="icons/logo-red-2.png">
-                    <h1 style="color: black;"><span>Купи</span> <span>Ѕвезда</span></h1>
+                    <h1 style="color: black;"><span>The Ristow</span> <span>Gifts</span></h1>
                 </div>
 
                 <div class="menu-flds">
@@ -198,7 +198,7 @@
                         </div>
                         <div class="single-price-fwe">
                             <label>Вкупна цена:</label>
-                            <span>599 ден.</span>
+                            <span>199 ден.</span>
                         </div>
                     </div>
 
@@ -246,8 +246,7 @@
 
                     <img src="icons/success.png">
 
-                    <p>Сега вашата ѕвездичка ќе си го добие својот сертификат. .. Сега вашата ѕвездичка ќе си го добие својот сертификат. .. Сега вашата ѕвездичка ќе си го добие својот сертификат. .. </p>
-               
+                    <p>Вашата ѕвездичка за кратко ќе си го добие својот заслужен сертификат!  </p>
                     
                     <div class="button-heere-lglepw ">
                         <a href="index.php">

@@ -149,7 +149,7 @@
             <div class="sec-section-lgple-inside">
 
                 <div class="lfpek-lgewp">
-                    <h1>Процесот до купвање на ѕвезда</h1>
+                    <h1>Процесот до подарување на ѕвезда</h1>
 
                     <div class="way-y-pelew">
                         <div></div>
@@ -325,10 +325,10 @@
             <div class="sec-section-lgple-inside">
 
                 <div class="lfpek-lgewp">
-                    <h1>Што е купи ѕвезда?</h1>
+                    <h1>Што е The Ristow Gifts?</h1>
  
                     <div class="wlpff-fw">
-                        <p>Купи ѕвезда е страна каде што можете да си регистрирате ваша сопствена ѕвезда. 
+                        <p>The Ristow Gifts е страна каде што можете да си регистрирате ваша сопствена ѕвезда. 
                             Целта на оваа страна е да ви помогне да им подарите на вашите сакани креативни и убави 
                             подароци кои никогаш нема да се заборават.</p> 
                     </div>
@@ -464,7 +464,7 @@
 
             <div class="sec-section-lgple-inside">
 
-                <p>Copyright © 2021 Купи Ѕвезда. Сите права се задржани.</p>
+                <p>Copyright © 2021 The Ristow Gifts. Сите права се задржани.</p>
 
                 <div class="kpfkewp-gewpglknewbnigkmlew">
                     <a href="https://www.facebook.com/Kupi-Dzvezda-102218489006871" target="_blank">
