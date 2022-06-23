@@ -49,8 +49,7 @@
         <div class="size-prodsa">
             
             <div class="header-main-lgpw">
-                
-<<<<<<< HEAD
+
                 <div class="klslsl">            
                     <a href="#">
                         <div class="logo-lgw">
@@ -61,12 +60,10 @@
                     </a>
                 </div>   
     
-=======
                 <div class="logo-lgw">
                     <img src="icons/logo-red-2.png">
                     <h1><span>The Ristow</span> <span>Gifts</span></h1>
                 </div>
->>>>>>> 82ebe325ca686c659e292d9e10fcfee24e13a270
 
                 <div class="menu-flds">
               
