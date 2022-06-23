@@ -46,14 +46,20 @@
     <div class="stars"></div>
 
     <div class="headerlgrel-gergre ">
-        <div class="size-prodsa">
+        <div class="size-prodsa" style="max-width:100%">
             
             <div class="header-main-lgpw">
 
-                <div class="logo-lgw">
-                    <img src="icons/logo-red-2.png">
-                    <h1 style="color: black;"><span>The Ristow</span> <span>Gifts</span></h1>
-                </div>
+              
+                <div class="klslsl">            
+                    <a href="#">
+                        <div class="logo-lgw">
+                            
+                            <img src="icons/logo-red-2.png">
+                            <h1 style="color:black"> <span>The Ristow</span> <span>Gifts</span></h1>
+                        </div>   
+                    </a>
+                </div>   
 
                 <div class="menu-flds">
 

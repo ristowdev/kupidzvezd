@@ -49,11 +49,17 @@
         <div class="size-prodsa">
             
             <div class="header-main-lgpw">
-
-                <div class="logo-lgw">
-                    <img src="icons/logo-red-2.png">
-                    <h1><span>The Ristow</span> <span>Gifts</span></h1>
-                </div>
+                
+                <div class="klslsl">            
+                    <a href="#">
+                        <div class="logo-lgw">
+                            
+                            <img src="icons/logo-red-2.png">
+                            <h1><span>The Ristow</span> <span>Gifts</span></h1>
+                        </div>   
+                    </a>
+                </div>   
+    
 
                 <div class="menu-flds">
               
@@ -65,7 +71,7 @@
                         <a href="#find-a-star">Најди ѕвезда</a>
                     </div>
                     
-                    <a href="buyastar.html"><div class="lfkmgw">Подари ѕвезда</div></a>
+                    <a href="buyastar.php"><div class="lfkmgw">Подари ѕвезда</div></a>
 
                 </div>
             

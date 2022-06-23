@@ -8,6 +8,11 @@ background:#0e0e0e url(stars.png) repeat top center ;
 
 }
 
+.klslsl{
+    display: flex;
+    flex: 1;
+}
+
 .headerlgrel-gergre{
     display: flex;
     justify-content: center;
