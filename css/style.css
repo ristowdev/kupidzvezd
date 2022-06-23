@@ -24,6 +24,7 @@ background:#0e0e0e url(stars.png) repeat top center ;
 .size-prodsa{
     width: 85%;
     z-index: 1;
+    max-width: 1200px;
 }
 
 .logo-lgw{
@@ -987,10 +988,44 @@ a{
         padding-top:5rem;
     }
 }
-
-
+ 
 @media (max-width:850px) {
+    .first-section-main, .main-left-lpger {
+        width: 100%;
+    } 
 
+    .main-right-lpeg-re{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .main-right-lpeg-re img{
+        margin-left: 0px !important;
+    }
+
+    #why-to-buy{
+        height: 1100px;
+    }
+
+    .sec-lpofe-lgmingew{
+        text-align: center;
+        align-items: center;
+        margin-bottom: 1.5rem;
+    }
+    .sec-lpofe-lgmingew:last-child{
+        margin-bottom: 0px;
+    }
+
+    .main-right-lpeg-re{
+        margin-top: 4rem;
+    }
+
+    .single-box-lpfew{
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+    }   
     
     .desktop-links{
         display:none;
