@@ -79,7 +79,7 @@
     </div>
 
 
-    <!-- dafal -->
+    <!--  -->
 
     <div class="hero-section" id="hero-section">      
 
@@ -173,7 +173,7 @@
                         <div class="left-lgpw-lgew-icon">
                             <img src="icons/choose-a-star.png">
                         </div>
-
+        <!-- test01 -->
                         <div class="text-load-lgpewg">
                             <label>Изберете ѕвезда</label>
                             <p>Можете да си изберете ѕвездичка по ваш избор од нашиот спектар, односно целата галаксија. </p>
