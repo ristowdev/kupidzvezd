@@ -58,12 +58,7 @@
                             <h1><span>The Ristow</span> <span>Gifts</span></h1>
                         </div>   
                     </a>
-                </div>   
-    
-                <div class="logo-lgw">
-                    <img src="icons/logo-red-2.png">
-                    <h1><span>The Ristow</span> <span>Gifts</span></h1>
-                </div>
+                </div>    
 
                 <div class="menu-flds">
               
