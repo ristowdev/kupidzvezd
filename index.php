@@ -53,7 +53,7 @@
                     <a href="#">
                         <div class="logo-lgw">
                             
-                            <img src="icons/logo-red-2.png">
+                            <img src="images/icons/logo-red-2.png">
                             <h1><span>The Ristow</span> <span>Gifts</span></h1>
                         </div>   
                     </a>
@@ -91,7 +91,7 @@
                 <div class="first-section-main">
 
                     <div class="lkgnigherbgije-grengjierbjur">
-                        <img src="icons/package.png">
+                        <img src="images/icons/package.png">
                         <span>Бесплатна достава</span>
                     </div>
 
@@ -104,7 +104,7 @@
                             <a href="buyastar.php">
                                 <div class="buy-a-star-or">
                                     <span>Подари ѕвезда</span>
-                                    <img src="icons/right-arrow.png">
+                                    <img src="images/icons/right-arrow.png">
                                 </div>
                             </a>
                         </div> 
@@ -176,7 +176,7 @@
                     <div class="single-box-lpfew">
 
                         <div class="left-lgpw-lgew-icon">
-                            <img src="icons/choose-a-star.png">
+                            <img src="images/icons/choose-a-star.png">
                         </div>  
                         
                         <div class="text-load-lgpewg">
@@ -189,7 +189,7 @@
                     <div class="single-box-lpfew">
 
                         <div class="left-lgpw-lgew-icon">
-                            <img src="icons/file.png">
+                            <img src="images/icons/file.png">
                         </div>
                         
                         <div class="text-load-lgpewg">
@@ -208,7 +208,7 @@
                     <div class="single-box-lpfew">
 
                         <div class="left-lgpw-lgew-icon">
-                            <img src="icons/packaging.png">
+                            <img src="images/icons/packaging.png">
                         </div>
 
                         <div class="text-load-lgpewg">
@@ -226,7 +226,7 @@
                     <div class="single-box-lpfew">
 
                         <div class="left-lgpw-lgew-icon">
-                            <img src="icons/delivery.png">
+                            <img src="images/icons/delivery.png">
                         </div>
 
                         <div class="text-load-lgpewg">
@@ -248,7 +248,7 @@
                     <a href="buyastar.php">
                         <div class="buy-a-star-or">
                             <span>Подари ѕвезда</span>
-                            <img src="icons/right-arrow.png">
+                            <img src="images/icons/right-arrow.png">
                         </div>
                     </a>
                 </div>
@@ -284,19 +284,19 @@
 
                     <div class="secplec-le-ofwe">
                         <div class="sec-lpofe-lgmingew">
-                            <img src="icons/prov1.png">
+                            <img src="images/icons/prov1.png">
                             <label>Вистински координати на вашата избрана ѕвездичка</label>
                         </div>
                         <div class="sec-lpofe-lgmingew">
-                            <img src="icons/prov1.png">
+                            <img src="images/icons/prov1.png">
                             <label>‘QR’ код кој можете да го скенирате за да си ја посетите вашата ѕвездичка</label>
                         </div>
                         <div class="sec-lpofe-lgmingew">
-                            <img src="icons/prov1.png">
+                            <img src="images/icons/prov1.png">
                             <label>Вашиот сертификат можете да го сместите во рамка</label>
                         </div>
                         <div class="sec-lpofe-lgmingew">
-                            <img src="icons/prov1.png">
+                            <img src="images/icons/prov1.png">
                             <label>Можете да напишете текст на сартификатот за вашата омилена личност</label>
                         </div>
                     </div>
@@ -306,7 +306,7 @@
                             <a href="buyastar.php">
                                 <div class="buy-a-star-or">
                                     <span>Подари ѕвезда</span>
-                                    <img src="icons/right-arrow.png">
+                                    <img src="images/icons/right-arrow.png">
                                 </div>
                             </a>
                         </div>
@@ -353,7 +353,7 @@
                         <div class="single-box-lpfew">
 
                         <div class="left-lgpw-lgew-icon">
-                            <img src="icons/quality.png">
+                            <img src="images/icons/quality.png">
                         </div>
 
                         <div class="text-load-lgpewg">
@@ -367,7 +367,7 @@
                     <div class="single-box-lpfew">
 
                         <div class="left-lgpw-lgew-icon">
-                            <img src="icons/fast-delivery.png">
+                            <img src="images/icons/fast-delivery.png">
                         </div>
                         
                         <div class="text-load-lgpewg">
@@ -381,7 +381,7 @@
                     <div class="single-box-lpfew">
 
                         <div class="left-lgpw-lgew-icon">
-                            <img src="icons/24-hours-support.png">
+                            <img src="images/icons/24-hours-support.png">
                         </div>
                         
                         <div class="text-load-lgpewg">
@@ -420,19 +420,19 @@
                         </div>
                         <div class="secplec-le-ofwe">
                             <div class="sec-lpofe-lgmingew">
-                                <img src="icons/prov1.png">
+                                <img src="images/icons/prov1.png">
                                 <label>Пронајдете го вашиот скенер за 'QR' kodot и вклучете го</label>
                             </div>
                             <div class="sec-lpofe-lgmingew">
-                                <img src="icons/prov1.png">
+                                <img src="images/icons/prov1.png">
                                 <label>Внимателно скенирајте го 'QR' кодот кој се наоѓа на вашиот сертификат</label>
                             </div>
                             <div class="sec-lpofe-lgmingew">
-                                <img src="icons/prov1.png">
+                                <img src="images/icons/prov1.png">
                                 <label>Одкога ќе го скенирате почекајте и ќе бидете пренасочени кон локацијата на вашата ѕвездичка</label>
                             </div>
                             <div class="sec-lpofe-lgmingew">
-                                <img src="icons/prov1.png">
+                                <img src="images/icons/prov1.png">
                                 <label>Уживајте гледајќи ја вашата ѕвездичка заедно со вашата омилена личност</label>
                             </div>
                         </div>
@@ -480,10 +480,10 @@
 
                 <div class="kpfkewp-gewpglknewbnigkmlew">
                     <a href="https://www.facebook.com/Kupi-Dzvezda-102218489006871" target="_blank">
-                        <img src="icons/facebook.png">
+                        <img src="images/icons/facebook.png">
                     </a>
                     <a href="https://www.instagram.com/kupidzvezda/" target="_blank">
-                        <img src="icons/instagram.png">
+                        <img src="images/icons/instagram.png">
                     </div>
 
                 </div>

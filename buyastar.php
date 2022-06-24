@@ -55,7 +55,7 @@
                     <a href="#">
                         <div class="logo-lgw">
                             
-                            <img src="icons/logo-red-2.png">
+                            <img src="images/icons/logo-red-2.png">
                             <h1 style="color:black"> <span>The Ristow</span> <span>Gifts</span></h1>
                         </div>   
                     </a>
@@ -253,7 +253,7 @@
 
                     <h1>Упсешна нарачка!</h1>
 
-                    <img src="icons/success.png">
+                    <img src="images/icons/success.png">
 
                     <p>Вашата ѕвездичка за кратко ќе си го добие својот заслужен сертификат!  </p>
                     
