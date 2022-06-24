@@ -14,7 +14,7 @@
     //execute sql
 
 
-    // da 
+
 
     $query = "SELECT * FROM orders WHERE star_coordinates = '$star_coordinates' AND order_status = 'Delivered'";
 
